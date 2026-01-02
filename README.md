@@ -1,5 +1,3 @@
----
-
 # 🧟 MiniPac
 
 ### A Unity 2D Pac-Man–Inspired Arcade Game
